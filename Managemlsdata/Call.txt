@@ -1,0 +1,18 @@
+E:\Bharat\Projects\ManageMLSData\ManageMLSData\bin\Debug\ManageMLSData.exe  idxcommercial C:\MLSData\IDXImagesCommercial\IDXCommercial.xml
+
+E:\Bharat\Projects\ManageMLSData\ManageMLSData\bin\Debug\ManageMLSData.exe idxcommercial  C:\MLSData\IDXImagesCommercial\
+
+
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe idxcommercial C:\MlsData\IDXImagesCommercial\
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe idxcondo C:\MlsData\IDXImagesCondo\
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe idxresidential C:\MlsData\IDXResidential\
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe voxcommercial C:\MlsData\VoxCommercial\
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe vowcondo C:\MlsData\VOXCondo\
+
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe voxresidential C:\MlsData\VoxResidential\
+

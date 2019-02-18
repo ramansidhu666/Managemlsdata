@@ -1,0 +1,12 @@
+C:\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe.config
+C:\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.exe
+C:\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.pdb
+C:\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe
+C:\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.pdb
+C:\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.csprojResolveAssemblyReference.cache
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe.config
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.exe
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.pdb
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.exe
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\bin\Debug\ManageMLSData.pdb
+C:\sites\Managemlsdata\Managemlsdata\ManageMLSData\obj\Debug\ManageMLSData.csprojResolveAssemblyReference.cache
